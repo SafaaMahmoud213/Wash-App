@@ -8,11 +8,12 @@ Follow these instructions to build and run the project
 
 ### Setup Flutter
 
-A detailed guide for multiple platforms setup could be find [here](https://github.com/SafaaMahmoud213/Wash-App.git)
+
+A detailed guide for multiple platforms setup could be find [here](https://flutter.dev/docs/get-started/install/)
 
 ### Setup Project
 
-- Clone this repository using `git clone https://github.com/SafaaMahmoud213/E_E_S_App.git`.
+- Clone this repository using `git clone https://github.com/SafaaMahmoud213/Wash-App.git`.
 - `cd` into `Wash_App`.
 - `flutter pub get` to get all the dependencies.
 
