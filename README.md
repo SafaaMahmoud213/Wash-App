@@ -8,7 +8,7 @@ Follow these instructions to build and run the project
 
 ### Setup Flutter
 
-A detailed guide for multiple platforms setup could be find [here](https://flutter.dev/docs/get-started/install/)
+A detailed guide for multiple platforms setup could be find [here](https://github.com/SafaaMahmoud213/Wash-App.git)
 
 ### Setup Project
 
